@@ -1,6 +1,6 @@
 # SimpleRegions
 
-SimpleRegions is a lightweight Minecraft plugin for managing protected regions within your server, similar to WorldGuard. It can be used both as a standalone plugin or integrated as a dependency in other plugin projects.
+SimpleRegions is a lightweight Minecraft plugin for managing protected regions within your server, similar to WorldGuard but with a focus on simplicity and minimal system impact. It can be used both as a standalone plugin or integrated as a dependency in other plugin projects.
 
 ## Features
 
