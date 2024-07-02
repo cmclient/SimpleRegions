@@ -41,7 +41,8 @@ public void onEnable() {
 - `/region setpriority <region> <priority>` - Set the priority level of a region.
 
 Permissions:
-- `sr.admin` - Grants all administrative rights on regions.
+- `sr.region` - Manage regions using `/region` command
+- `Server Operators (/op)` - Bypass region protections
 
 ## Support
 Create issues for bugs or suggestions on our GitHub repository page.
